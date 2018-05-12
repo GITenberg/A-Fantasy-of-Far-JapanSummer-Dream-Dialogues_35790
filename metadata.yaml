@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37903
     wikipedia: http://en.wikipedia.org/wiki/Suematsu_Kench%C5%8D
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35790#A-Fantasy-of-Far-JapanSummer-Dream-Dialogues
 gutenberg_issued: '2011-04-08'
 gutenberg_type: Text
 identifiers:
