@@ -1,0 +1,33 @@
+_repo: A-Fantasy-of-Far-JapanSummer-Dream-Dialogues_35790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Suematsu, Kencho
+    aliases:
+    - Suematsu, Seihyo
+    - Suyematsu, Kencho
+    - 末松謙済
+    - 末松謙澄
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '37903'
+    url: http://www.gutenberg.org/2009/agents/37903
+    wikipedia: http://en.wikipedia.org/wiki/Suematsu_Kench%C5%8D
+description: ''
+gutenberg_issued: '2011-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35790'
+  lccn: '06032705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Civilization'
+- !lcc 'DS'
+title: A Fantasy of Far Japan; Or, Summer Dream Dialogues
+url: http://www.gutenberg.org/ebooks/35790
